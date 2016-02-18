@@ -38,3 +38,7 @@ C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\bin\System.Web
 C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\obj\Debug\MVCWithAngularJs.csprojResolveAssemblyReference.cache
 C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\obj\Debug\MVCWithAngularJs.dll
 C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\obj\Debug\MVCWithAngularJs.pdb
+C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\bin\EntityFramework.dll
+C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\bin\EntityFramework.SqlServer.dll
+C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\bin\EntityFramework.xml
+C:\_Marcus\_Estudo 2.0\Back end\MVCWithAngularJs\MVCWithAngularJs\bin\EntityFramework.SqlServer.xml
