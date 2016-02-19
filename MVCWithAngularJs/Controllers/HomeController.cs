@@ -13,5 +13,10 @@ namespace MVCWithAngularJs.Controllers
         {
             return View();
         }
+
+        public JsonResult GetProducts()
+        {
+            ProductsDBEntities
+        }
     }
 }

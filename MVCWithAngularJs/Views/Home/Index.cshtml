@@ -1,8 +1,8 @@
 ﻿<h3>Products</h3>
-<div>
+<div ng-controller="mainController">
     <table class="table table-striped">
-        <tr>
-            <td></td>
+        <tr ng-repeat="product in products">
+            <td>{{product.productName}}</td>
             <td class="text-lg-right">
                 <button class="btn btn-danger">X</button>
             </td>
